@@ -12,3 +12,6 @@ Before running the script, ensure you have the following dependencies installed:
 
 ```bash
 pip install ultralytics opencv-python
+
+```
+make sure you download yolo11n.pt from yolo ultralytics website.
